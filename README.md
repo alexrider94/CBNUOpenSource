@@ -1,12 +1,12 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
-* 소현섭
-* 강산
-* 안효진
+## list
+* SO HYONSEOP
+* GANG SAN
+* AN HYOJIN
 
-## 추천 프로그램
+## Recommend Program
 * GitAhead
 * VisualStudio
 * Atom
